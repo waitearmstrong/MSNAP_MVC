@@ -883,11 +883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Waite\\Projects\\Fall2019Group10Solution\\Fall2019Group10Test\\Fall2019Group10Test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Finshed Work Repo\\Fall2019Group10Test\\Fall2019Group10Test.csproj",
       "projectName": "Fall2019Group10Test",
-      "projectPath": "C:\\Users\\User\\Desktop\\Waite\\Projects\\Fall2019Group10Solution\\Fall2019Group10Test\\Fall2019Group10Test.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Finshed Work Repo\\Fall2019Group10Test\\Fall2019Group10Test.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Waite\\Projects\\Fall2019Group10Solution\\Fall2019Group10Test\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Finshed Work Repo\\Fall2019Group10Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -33,3 +33,38 @@ C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10App\
 C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.csproj.CopyComplete
 C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Vouchers\ListAllVouchers.g.cshtml.cs
 C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Requests\SearchRequests.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.RazorAssemblyInfo.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.RazorAssemblyInfo.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.TagHelpers.input.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.TagHelpers.output.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.RazorCoreGenerate.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Requests\ListAllRequests.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Requests\SearchRequests.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\Vouchers\ListAllVouchers.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.RazorTargetAssemblyInfo.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.RazorTargetAssemblyInfo.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.dll
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.pdb
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\bin\Debug\netcoreapp2.2\Fall2019Group10App.deps.json
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\bin\Debug\netcoreapp2.2\Fall2019Group10App.runtimeconfig.json
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\bin\Debug\netcoreapp2.2\Fall2019Group10App.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\bin\Debug\netcoreapp2.2\Fall2019Group10App.dll
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\bin\Debug\netcoreapp2.2\Fall2019Group10App.pdb
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\bin\Debug\netcoreapp2.2\Fall2019Group10App.Views.dll
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\bin\Debug\netcoreapp2.2\Fall2019Group10App.Views.pdb
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.Views.pdb
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10App\obj\Debug\netcoreapp2.2\Fall2019Group10App.csproj.CopyComplete

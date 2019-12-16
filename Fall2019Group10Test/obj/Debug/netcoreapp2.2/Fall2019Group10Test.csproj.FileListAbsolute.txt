@@ -9,3 +9,14 @@ C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10Test
 C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.AssemblyInfo.cs
 C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.dll
 C:\Users\User\Desktop\Waite\Projects\Fall2019Group10Solution\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.pdb
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\bin\Debug\netcoreapp2.2\Fall2019Group10Test.deps.json
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\bin\Debug\netcoreapp2.2\Fall2019Group10Test.runtimeconfig.json
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\bin\Debug\netcoreapp2.2\Fall2019Group10Test.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\bin\Debug\netcoreapp2.2\Fall2019Group10Test.dll
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\bin\Debug\netcoreapp2.2\Fall2019Group10Test.pdb
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.dll
+C:\Users\User\Source\Repos\Finshed Work Repo\Fall2019Group10Test\obj\Debug\netcoreapp2.2\Fall2019Group10Test.pdb

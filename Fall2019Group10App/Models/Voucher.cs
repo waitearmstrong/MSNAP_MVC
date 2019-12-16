@@ -15,11 +15,11 @@ namespace Fall2019Group10App.Models
         public Double VoucherAmount { get; set; }
 
         [Required]
-        [DataType(DataType.Date)]
+       
         public DateTime DateSent { get; set; }
-        [DataType(DataType.Date)]
+        
         public DateTime? DateReconciled { get; set; }
-        [DataType(DataType.Date)]
+        
         public DateTime? DateUsed { get; set; }
 
 

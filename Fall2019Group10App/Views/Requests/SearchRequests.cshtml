@@ -52,16 +52,19 @@
             </thead>
             <tbody>
 
-
-                @foreach (var eachRequest in ViewData.)
+                @if (!ViewData.Model.RequestList.Any())
                 {
-                    <tr>
-                        <td>@eachRequest.RequestID</td>
-                        <td>@eachRequest.Owner.FullName</td>
-                        <td>@eachRequest.AnimalType</td>
-                        <td>@eachRequest.AnimalSize</td>
-                        <td>@eachRequest.AnimalType</td>
-                    </tr>
+
+                    @foreach (var eachRequest in ViewData.Model.RequestList)
+                    {
+                        <tr>
+                            <td>@eachRequest.RequestID</td>
+                            <td>@eachRequest.Owner.FullName</td>
+                            <td>@eachRequest.AnimalType</td>
+                            <td>@eachRequest.AnimalSize</td>
+                            <td>@eachRequest.AnimalType</td>
+                        </tr>
+                    }
                 }
             </tbody>
 

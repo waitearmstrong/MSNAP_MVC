@@ -32,6 +32,7 @@ namespace Fall2019Group10App.Data
             }
             if (!database.ApplicationUsers.Any())
             {
+                
                  Volunteer volunteerOne = new Volunteer("Volunteer", "One", "volunteer.one@gmail.com", "540.261.2644", "volunteer");
                 await userManager.CreateAsync(volunteerOne);
                 await userManager.AddToRoleAsync(volunteerOne, roleV);
@@ -43,7 +44,10 @@ namespace Fall2019Group10App.Data
                 Owner ownerTwo = new Owner("Crazy", "Catlady", "catlover@gmail.com", "760.461.5083", "catlover1");
                 await userManager.CreateAsync(ownerTwo);
                 await userManager.AddToRoleAsync(ownerTwo, roleO);
-
+                
+                Owner ownerThree = new Owner("Matt", "McDonald'", "matt.mcdonald@gmail.com", "763.431.5383", "mattyice");
+                await userManager.CreateAsync(ownerThree);
+                await userManager.AddToRoleAsync(ownerThree, roleO);
 
 
             }
@@ -63,24 +67,40 @@ namespace Fall2019Group10App.Data
                 Request requestOne = new Request("Female", "Small", "Cat");
                 Request requestTwo = new Request("Male", "Medium", "Dog");
                 Request requestThree = new Request("Female", "Medium", "Cat");
+                Request requestFour = new Request("Male", "Large", "Dog");
+                Request requestFive = new Request("Female", "Large", "Cat");
                 requestOne.Owner = database.Owners.FirstOrDefault(o => o.Email == "catlover@gmail.com");
                 requestTwo.Owner = database.Owners.FirstOrDefault(o => o.Email == "wha0001@mix.wvu.edu");
                 requestThree.Owner = database.Owners.FirstOrDefault(o => o.Email == "catlover@gmail.com");
+                requestFour.Owner = database.Owners.FirstOrDefault(o => o.Email == "matt.mcdonald@gmail.com");
+                requestFive.Owner = database.Owners.FirstOrDefault(o => o.Email == "matt.mcdonald@gmail.com");
                 database.Requests.Add(requestOne);
                 database.Requests.Add(requestTwo);
                 database.Requests.Add(requestThree);
+                database.Requests.Add(requestFour);
+                database.Requests.Add(requestFive);
+
                 database.SaveChanges();
             }
             if (!database.Vouchers.Any())
             {
                 DateTime date = new DateTime(2019, 3, 1);
                 DateTime dateTwo = new DateTime(2019, 7, 14);
+                DateTime dateThree = new DateTime(2019, 1, 14);
                 Voucher voucherOne = new Voucher(50.00,date,1,1);
                 Voucher voucherTwo = new Voucher(25.00, dateTwo, 2, 2);
+                Voucher voucherThree = new Voucher(75.00, dateThree, 2, 34);
+                Voucher voucherFour = new Voucher(15.00,dateThree,1,35);
                 voucherOne.RequestID = 31;
                 voucherTwo.RequestID = 32;
+                voucherThree.RequestID = 34;
+                voucherFour.RequestID = 35;
+                voucherThree.DateReconciled = date;
+                voucherFour.DateReconciled = dateTwo;
                 database.Vouchers.Add(voucherOne);
                 database.Vouchers.Add(voucherTwo);
+                database.Vouchers.Add(voucherThree);
+                database.Vouchers.Add(voucherFour);
                 database.SaveChanges();
             }
           

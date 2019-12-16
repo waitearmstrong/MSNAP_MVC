@@ -23,18 +23,18 @@
         <table class="table table-bordered table-striped table-dark">
             <thead>
                 <tr>
-                    <th scope="col">RequestID</th>
-                    <th scope="col">Animal Owner</th>
-                    <th scope="col">Animal Type</th>
-                    <th scope="col">Animal Size</th>
-                    <th scope="col">Animal Gender</th>
+                    <th>RequestID</th>
+                    <th>Animal Owner</th>
+                    <th>Animal Type</th>
+                    <th>Animal Size</th>
+                    <th>Animal Gender</th>
                 </tr>
             </thead>
             <tbody>
                 @foreach (Request currentRequest in Model)
                 {
                     <tr>
-                        <th scope="row">@currentRequest.RequestID</th>
+                        <th>@currentRequest.RequestID</th>
                         <td>@currentRequest.Owner.FullName</td>
                         <td>@currentRequest.AnimalType</td>
                         <td>@currentRequest.AnimalSize</td>

@@ -13134,11 +13134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Waite\\Projects\\Fall2019Group10Solution\\Fall2019Group10App\\Fall2019Group10App.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Finshed Work Repo\\Fall2019Group10App\\Fall2019Group10App.csproj",
       "projectName": "Fall2019Group10App",
-      "projectPath": "C:\\Users\\User\\Desktop\\Waite\\Projects\\Fall2019Group10Solution\\Fall2019Group10App\\Fall2019Group10App.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Finshed Work Repo\\Fall2019Group10App\\Fall2019Group10App.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Waite\\Projects\\Fall2019Group10Solution\\Fall2019Group10App\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Finshed Work Repo\\Fall2019Group10App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -44,9 +44,9 @@ the project, made me link an external one to style correctly
                     <td>@currentVoucher.Request.Owner.FullName</td>
                     <td>@string.Format("{0:C}", currentVoucher.VoucherAmount)</td>
                     <td>@currentVoucher.Clinic.ClinicName</td>
-                    <td>@currentVoucher.DateReconciled</td>
-                    <td>@currentVoucher.DateSent</td>
-                    <td>@currentVoucher.DateUsed</td>
+                    <td>@string.Format("{0:MM/dd/yyyy}",currentVoucher.DateReconciled)</td>
+                    <td>@string.Format("{0:MM/dd/yyyy}", currentVoucher.DateSent)</td>
+                    <td>@string.Format("{0:MM/dd/yyyy}", currentVoucher.DateUsed)</td>
                 </tr>
                 }
             </tbody>

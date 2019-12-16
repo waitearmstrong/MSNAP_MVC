@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Fall2019Group10App.Models.Request>
+@{
+    ViewData["Title"] = "List All Requests";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<!-- Not sure why it didnt pull in the bootstrap library from
+     the project, made me link an external one to style correctly-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListAllRequests</title>
+</head>
+
+
+
+<body>
+    <div>
+        <h1>@ViewData["Title"]</h1>
+
+        <table class="table table-bordered table-striped table-dark">
+            <thead>
+                <tr>
+                    <th scope="col">RequestID</th>
+                    <th scope="col">Animal Owner</th>
+                    <th scope="col">Animal Type</th>
+                    <th scope="col">Animal Size</th>
+                    <th scope="col">Animal Gender</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Request currentRequest in Model)
+                {
+                    <tr>
+                        <th scope="row">@currentRequest.RequestID</th>
+                        <td>@currentRequest.Owner.FullName</td>
+                        <td>@currentRequest.AnimalType</td>
+                        <td>@currentRequest.AnimalSize</td>
+                        <td>@currentRequest.AnimalGender</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

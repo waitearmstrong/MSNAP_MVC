@@ -1,0 +1,72 @@
+﻿@using Microsoft.EntityFrameworkCore
+@model SearchRequestsViewModel
+@{
+    ViewData["Title"] = "Search Requests";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Search Requests</title>
+</head>
+<body>
+    <h1>Search Players</h1>
+    <div>
+        <form asp-controller="Requests" asp-action="SearchRequests" method="post">
+            <div class="form-group">
+                <label>Gender</label>
+                <select asp-for="AnimalGender" class="form-control">
+                    <option value=null></option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Animal Type</label>
+                <select asp-for="AnimalType" class="form-control">
+                    <option value=null></option>
+                    <option value="Dog">Dog</option>
+                    <option value="Cat">Cat</option>
+                </select>
+                <select asp-for="AnimalSize" class="form-control">
+                    <option value=null></option>
+                    <option value="Small">Small</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Large">Large</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+
+        <table class="table table-bordered table-striped table-dark">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Owner Name</th>
+                    <th>Animal Type</th>
+                    <th>Animal Size</th>
+                    <th>Animal Gender</th>
+                </tr>
+            </thead>
+            <tbody>
+
+
+                @foreach (var eachRequest in ViewData.)
+                {
+                    <tr>
+                        <td>@eachRequest.RequestID</td>
+                        <td>@eachRequest.Owner.FullName</td>
+                        <td>@eachRequest.AnimalType</td>
+                        <td>@eachRequest.AnimalSize</td>
+                        <td>@eachRequest.AnimalType</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+
+    </div>
+</body>
+</html>
